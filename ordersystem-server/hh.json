@@ -1,0 +1,45 @@
+[
+    [
+        {
+            "goodsID": 1,
+            "goodsImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3414705678,4221852839&fm=26&gp=0.jpg",
+            "goodsName": "香辣鸡腿堡",
+            "price": 18
+        },
+        {
+            "goodsID": 1,
+            "goodsImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3414705678,4221852839&fm=26&gp=0.jpg",
+            "goodsName": "香辣鸡腿堡",
+            "price": 18
+        },
+        {
+            "goodsID": 1,
+            "goodsImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3414705678,4221852839&fm=26&gp=0.jpg",
+            "goodsName": "香辣鸡腿堡",
+            "price": 18
+        }
+    ],
+    [
+        {
+            "goodsID": 1,
+            "goodsImg":  "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1465221866,2329609322&fm=26&gp=0.jpg",
+            "goodsName": "香辣鸡腿堡",
+            "price": 18
+        },
+        {
+            "goodsID": 1,
+            "goodsImg":  "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1465221866,2329609322&fm=26&gp=0.jpg",
+            "goodsName": "香辣鸡腿堡",
+            "price": 18
+        },
+        {
+            "goodsID": 1,
+            "goodsImg":  "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1465221866,2329609322&fm=26&gp=0.jpg",
+            "goodsName": "香辣鸡腿堡",
+            "price": 18
+        }
+    ]
+]
+
+
+

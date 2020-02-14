@@ -1,0 +1,186 @@
+{
+  "Array": [
+    
+
+[
+  {
+    "goodsID": 25,
+    "goodsName": "香辣鸡腿堡",
+    "goodsPrice": 15
+  },
+  {
+    "goodsID": 26,
+    "goodsName": "老北京",
+    "goodsPrice": 10
+  },
+  {
+    "goodsID": 27,
+    "goodsName": "虾排",
+    "goodsPrice": 15
+  },
+  {
+    "goodsID": 28,
+    "goodsName": "牛肉汉堡包",
+    "goodsPrice": 20
+  },
+  {
+    "goodsID": 29,
+    "goodsName": "薯条",
+    "goodsPrice": 10
+  }
+],
+   
+    [
+      {
+        "goodsID": 1,
+        "goodsImg": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=4248481789,2429122189&fm=173&app=25&f=JPEG?w=460&h=279&s=9C187A950C404A4746077E6F03007078",
+        "goodsName": "田园汉堡",
+        "goodsPrice": 18
+      },
+      {
+        "goodsID": 2,
+        "goodsImg": "http://img3.imgtn.bdimg.com/it/u=897948422,3949327&fm=26&gp=0.jpg",
+        "goodsName": "双层吉士汉堡",
+        "goodsPrice": 22
+      },
+      {
+        "goodsID": 3,
+        "goodsImg": "http://img1.imgtn.bdimg.com/it/u=533461486,1045376193&fm=26&gp=0.jpg",
+        "goodsName": "牛肉汉堡",
+        "goodsPrice": 28
+      },
+      {
+        "goodsID": 4,
+        "goodsImg": "http://img5.imgtn.bdimg.com/it/u=2388951078,953296097&fm=26&gp=0.jpg",
+        "goodsName": "香辣鸡腿堡",
+        "goodsPrice": 15
+      },
+      {
+        "goodsID": 5,
+        "goodsImg": "http://img0.imgtn.bdimg.com/it/u=3714931935,181296213&fm=26&gp=0.jpg",
+        "goodsName": "奥尔良鸡腿堡",
+        "goodsPrice": 32
+      },
+      {
+        "goodsID": 6,
+        "goodsImg": "http://img3.imgtn.bdimg.com/it/u=4065773784,2234311687&fm=26&gp=0.jpg",
+        "goodsName": "猪肉汉堡",
+        "goodsPrice": 16
+      }
+    ],
+    [
+      {
+        "goodsID": 7,
+        "goodsImg": "http://img3.imgtn.bdimg.com/it/u=2336771330,1421051947&fm=26&gp=0.jpg",
+        "goodsName": "蒸饺",
+        "goodsPrice": 20
+      },
+      {
+        "goodsID": 8,
+        "goodsImg": "http://img3.imgtn.bdimg.com/it/u=3883815119,25696846&fm=26&gp=0.jpg",
+        "goodsName": "酸辣粉",
+        "goodsPrice": 12
+      },
+      {
+        "goodsID": 9,
+        "goodsImg": "http://img4.imgtn.bdimg.com/it/u=1440699898,1622437374&fm=26&gp=0.jpg",
+        "goodsName": "香辣鸡尖",
+        "goodsPrice": 25
+      },
+      {
+        "goodsID": 10,
+        "goodsImg": "http://img3.imgtn.bdimg.com/it/u=4042211420,2998014821&fm=26&gp=0.jpg",
+        "goodsName": "去骨鸭爪",
+        "goodsPrice": 32
+      },
+      {
+        "goodsID": 11,
+        "goodsImg": "http://img0.imgtn.bdimg.com/it/u=1932499573,66029489&fm=26&gp=0.jpg",
+        "goodsName": "烤兔",
+        "goodsPrice": 58
+      },
+      {
+        "goodsID": 12,
+        "goodsImg": "http://img3.imgtn.bdimg.com/it/u=2726153524,1061773901&fm=15&gp=0.jpg",
+        "goodsName": "小吃拼盘",
+        "goodsPrice": 29
+      }
+    ],
+    [
+      {
+        "goodsID": 13,
+        "goodsImg": "http://img2.imgtn.bdimg.com/it/u=1658321719,4171434323&fm=26&gp=0.jpg",
+        "goodsName": "冰激凌",
+        "goodsPrice": 13
+      },
+      {
+        "goodsID": 14,
+        "goodsImg": "http://img5.imgtn.bdimg.com/it/u=1405618361,4179284272&fm=26&gp=0.jpg",
+        "goodsName": "气泡果汁",
+        "goodsPrice": 7
+      },
+      {
+        "goodsID": 15,
+        "goodsImg": "http://img0.imgtn.bdimg.com/it/u=2769171890,687674416&fm=26&gp=0.jpg",
+        "goodsName": "冰饮",
+        "goodsPrice": 15
+      },
+      {
+        "goodsID": 16,
+        "goodsImg": "http://img1.imgtn.bdimg.com/it/u=2290088594,2420580615&fm=26&gp=0.jpg",
+        "goodsName": "每周特惠",
+        "goodsPrice": 14
+      },
+      {
+        "goodsID": 17,
+        "goodsImg": "http://img1.imgtn.bdimg.com/it/u=2576559585,1607677210&fm=26&gp=0.jpg",
+        "goodsName": "九珍果汁",
+        "goodsPrice": 18
+      },
+      {
+        "goodsID": 18,
+        "goodsImg": "http://img3.imgtn.bdimg.com/it/u=828695745,1171909824&fm=26&gp=0.jpg",
+        "goodsName": "百事可乐",
+        "goodsPrice": "18/14/10"
+      }
+    ],
+    [
+      {
+        "goodsID": 18,
+        "goodsImg": "http://img4.imgtn.bdimg.com/it/u=3619062493,1619299723&fm=26&gp=0.jpg",
+        "goodsName": "超值四人餐",
+        "goodsPrice": 58
+      },
+      {
+        "goodsID": 20,
+        "goodsImg": "http://img0.imgtn.bdimg.com/it/u=1741100138,3370290350&fm=26&gp=0.jpg",
+        "goodsName": "三人大桶餐",
+        "goodsPrice": 78
+      },
+      {
+        "goodsID": 21,
+        "goodsImg": "http://img0.imgtn.bdimg.com/it/u=3254537801,1913054981&fm=15&gp=0.jpg",
+        "goodsName": "全家桶",
+        "goodsPrice": 98
+      },
+      {
+        "goodsID": 22,
+        "goodsImg": "http://img5.imgtn.bdimg.com/it/u=2745020120,3731526673&fm=26&gp=0.jpg",
+        "goodsName": "三人行套餐 ",
+        "goodsPrice": 71
+      },
+      {
+        "goodsID": 23,
+        "goodsImg": "http://img5.imgtn.bdimg.com/it/u=992380515,458983040&fm=26&gp=0.jpg",
+        "goodsName": "欢乐儿童套餐",
+        "goodsPrice": 32
+      },
+      {
+        "goodsID": 24,
+        "goodsImg": "http://img1.imgtn.bdimg.com/it/u=3649467338,2921933247&fm=26&gp=0.jpg",
+        "goodsName": "单人套餐",
+        "goodsPrice": 18
+      }
+    ]
+  ]
+}
